@@ -1,4 +1,4 @@
-# expense-tracker
+# Hexcard
 
 ## Project setup
 ```
